@@ -19,7 +19,7 @@ New-UDSliderCaptcha -Title "Are you human" -SliderTitle "Move the jigsaw to miss
 The following example is using the style of UDButton and hiding the close button on the captcha
 
 ```
-        New-UDStyle -Style '
+    New-UDStyle -Style '
     .show__modal {
     margin: 8px;
     display: -webkit-inline-box;
@@ -75,4 +75,4 @@ The following example is using the style of UDButton and hiding the close button
     }' -Content {
      New-UDSliderCaptcha   
     }
-    ```
+```
