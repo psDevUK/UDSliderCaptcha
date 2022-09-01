@@ -1,6 +1,8 @@
 # UDSliderCaptcha
 Provides basic picture jigsaw slider captcha for Powershell Universal
 
+![Demo of component](/UDSliderCaptcha.gif?raw=true "Demo of component")
+
 Found this really nice simple captcha to prove a human is on the other-end of the dashboard. 
 
 ## Examples
